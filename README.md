@@ -49,6 +49,6 @@ API de cadastro de Livros e Empréstimos com CRUD completo (busca, listagem, ins
 
 ## :phone: Contato
 
-<img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true" /> Linkedin [https://www.linkedin.com/in/danyllo-valente-da-silva-3569b460](https://www.linkedin.com/in/danyllo-valente-da-silva-3569b460)
+<img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true" /> Linkedin [https://www.linkedin.com/in/moises-pereira-3a013767/])
 
-:postbox: E-mail [danyllo.dvs@gmail.com](danyllo.dvs@gmail.com)
+:postbox: E-mail [Moisespe2010@gmail.com](Moisespe2010@gmail.com)
